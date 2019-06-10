@@ -1,0 +1,31 @@
+#title{
+     position: relative;
+     text-align: center;
+     font-size: 50px;
+     font-family: "fantasy";
+     color: darkturquoise;
+     top: 15px;
+ }
+
+#buttonholder{
+    position: relative;
+    text-align: center;
+    font-family: "fantasy";
+    color: darkturquoise;
+    top: 4px;
+}
+
+#button {
+    background-color: darkturquoise;
+    color: white;
+    bottom: 2px;
+}
+#againButtons{
+     color: yellow;
+     background: orange;
+}
+
+#endButtons{
+    color: yellow;
+    background: orange;
+}
